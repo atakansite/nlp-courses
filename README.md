@@ -1,4 +1,4 @@
-# Natural Language Processing Courses with Materials
+# Natural Language Processing Courses
 * [Stanford CS124: From Languages to Information](http://web.stanford.edu/class/cs124/)
 * [Stanford CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
 * [Stanford CS224U: Natural Language Understanding](http://web.stanford.edu/class/cs224u/)
