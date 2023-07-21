@@ -1,2 +1,15 @@
-# nlp-courses-materials
-Natural Langugae Processing Courses with Materials
+# Natural Language Processing Courses with Materials
+* [Stanford CS124: From Languages to Information](http://web.stanford.edu/class/cs124/)
+* [Stanford CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
+* [Stanford CS224U: Natural Language Understanding](http://web.stanford.edu/class/cs224u/)
+* [CMU CS 11-711- Advanced NLP](http://www.phontron.com/class/anlp2022/schedule.html)
+* [CMU CS 11-737- Multilingual NLP](http://www.phontron.com/class/multiling2022/schedule.html)
+* [CMU CS 11-747- Neural Networks for NLP](http://www.phontron.com/class/nn4nlp2021/schedule.html)
+* [CMU CS 11-731- Machine Translation and Sequence-to-sequence Models](http://www.phontron.com/class/mtandseq2seq2019/schedule.html)
+* [MIT 6.806-864- Natural Language Processing](https://www.mit.edu/~jda/teaching/6.864/)
+* [KU COMP542- Natural Language Processing](https://sites.google.com/a/ku.edu.tr/comp542/)
+* [UMass Amherts CS 685 Advanced NLP](https://people.cs.umass.edu/~miyyer/cs685/schedule.html)
+* [Columbia COMS W4705: Natural Language Processing](http://www.cs.columbia.edu/~mcollins/cs4705-spring2020/)
+* [UT CS388: Natural Language Processing](https://www.cs.utexas.edu/~gdurrett/courses/sp2023/cs388.shtml)
+* [UT CS378: Natural Language Processing(Undergrad)](https://www.cs.utexas.edu/~gdurrett/courses/fa2022/cs378.shtml)
+* [UT CS395T: Structured Models for NLP](https://www.cs.utexas.edu/~gdurrett/courses/fa2017/cs395t.shtml)
