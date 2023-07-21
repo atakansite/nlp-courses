@@ -23,3 +23,7 @@
 * [UCSD CSE 256: Statistical Natural Language Processing](https://cseweb.ucsd.edu//~nnakashole/teaching/256_sp19.html)
 ## Reinforcement Learning for NLP
 * [RL4NLP Reading Group](https://github.com/jiyfeng/rl4nlp)
+# Books
+* [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/), Dan Jurafsky
+* [Neural Network Methods for Natural Language Processing](https://link.springer.com/book/10.1007/978-3-031-02165-7), Yoav Goldberg
+* [Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), Jacob Eisentein
