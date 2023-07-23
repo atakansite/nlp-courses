@@ -21,9 +21,19 @@
 * [UMD CMSC470: Introduction to Natural Language Processing](http://www.cs.umd.edu/class/fall2018/cmsc470//lectures/)
 * [OSU CSE 5525: Speech and Language Processing](http://aritter.github.io/courses/5525_spring19.html)
 * [UCSD CSE 256: Statistical Natural Language Processing](https://cseweb.ucsd.edu//~nnakashole/teaching/256_sp19.html)
+* [ETH Advanced Formal Language Theory](https://rycolab.io/classes/aflt-s22/)
+* [ETH Natural Language Processing](https://rycolab.io/classes/intro-nlp-f22/)
+* [ETH Large Language Models](https://rycolab.io/classes/llm-s23/)
 ## Reinforcement Learning for NLP
 * [RL4NLP Reading Group](https://github.com/jiyfeng/rl4nlp)
 # Books
 * [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/), Dan Jurafsky
 * [Neural Network Methods for Natural Language Processing](https://link.springer.com/book/10.1007/978-3-031-02165-7), Yoav Goldberg
 * [Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), Jacob Eisentein
+* [Foundations of Statistical Natural Language Processing](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Statistical%20Natural%20Language%20Processing.pdf), Christhoper D. Manning (Old Fashioned)
+## Mathematical Background for Machine Learning
+* [Introduction to Linear Algebra](http://students.aiu.edu/submissions/profiles/resources/onlineBook/Y5B7M4_Introduction_to_Linear_Algebra-_Fourth_Edition.pdf), Gilbert Strang
+* [Mathematical Statistics](http://www.mim.ac.mw/books/Mathematical%20statistics,%20basic%20ideas%20and%20selected%20topics%20Vol%201,%20Second%20Edition.pdf), Peter J. Bickel
+* [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/10.1002/047174882X), Thomas M. Cover
+* [Pattern Recognition and Machine Learning](https://github.com/peteflorence/MachineLearning6.867/blob/master/Bishop/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf), Christopher M. Bishop
+* [Deep Learning](https://www.deeplearningbook.org/), Ian Goodfellow
