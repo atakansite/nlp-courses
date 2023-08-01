@@ -35,5 +35,7 @@
 * [Introduction to Linear Algebra](http://students.aiu.edu/submissions/profiles/resources/onlineBook/Y5B7M4_Introduction_to_Linear_Algebra-_Fourth_Edition.pdf), Gilbert Strang
 * [Mathematical Statistics](http://www.mim.ac.mw/books/Mathematical%20statistics,%20basic%20ideas%20and%20selected%20topics%20Vol%201,%20Second%20Edition.pdf), Peter J. Bickel
 * [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/10.1002/047174882X), Thomas M. Cover
+*  [Probability, Random Variables and Stochastic Processes with Errata Sheet](https://www.amazon.com/Probability-Random-Variables-Stochastic-Processes/dp/0071226613), A. Papoulis
 * [Pattern Recognition and Machine Learning](https://github.com/peteflorence/MachineLearning6.867/blob/master/Bishop/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf), Christopher M. Bishop
 * [Deep Learning](https://www.deeplearningbook.org/), Ian Goodfellow
+* [Dive into Deep Learning](http://d2l.ai/)(Applied), [Course Materials](https://courses.d2l.ai/)
