@@ -8,6 +8,11 @@
 * [CMU CS 11-731- Machine Translation and Sequence-to-sequence Models](http://www.phontron.com/class/mtandseq2seq2019/schedule.html)
 * [MIT 6.806-864- Natural Language Processing](https://www.mit.edu/~jda/teaching/6.864/)
 * [MIT 6.861- Quantitative Methods for NLP](https://mit-6861.github.io/schedule)
+* [Princeton COS 484: Natural Language Processing](https://princeton-nlp.github.io/cos484/).
+* [Princeton COS 584: Advanced Natural Language Processing](https://princeton-nlp.github.io/cos484/cos584).
+* [Princeton COS 598C: Deep Learning for Natural Language Processing](https://www.cs.princeton.edu/courses/archive/spring20/cos598C/)
+* [Princeton COS 597F: Embodied Language Understanding](https://sites.google.com/princeton.edu/cos597f)
+* [Princeton COS 597G: Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
 * [UC Berkeley Natural Language Processing](https://people.ischool.berkeley.edu/~dbamman/nlp20.html)
 * [KU COMP542- Natural Language Processing](https://sites.google.com/a/ku.edu.tr/comp542/)
 * [UMass Amherts CS 685 Advanced NLP](https://people.cs.umass.edu/~miyyer/cs685/schedule.html)
@@ -28,6 +33,7 @@
 * [RL4NLP Reading Group](https://github.com/jiyfeng/rl4nlp)
 # Books
 * [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/), Dan Jurafsky
+* [A Primer on Neural Network Models for Natural Language Processing](https://u.cs.biu.ac.il/~yogo/nnlp.pdf), Yoav Goldberg
 * [Neural Network Methods for Natural Language Processing](https://link.springer.com/book/10.1007/978-3-031-02165-7), Yoav Goldberg
 * [Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), Jacob Eisentein
 * [Foundations of Statistical Natural Language Processing](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Statistical%20Natural%20Language%20Processing.pdf), Christhoper D. Manning (Old Fashioned)
