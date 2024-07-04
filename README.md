@@ -28,7 +28,9 @@
 * [UCSD CSE 256: Statistical Natural Language Processing](https://cseweb.ucsd.edu//~nnakashole/teaching/256_sp19.html)
 * [ETH Advanced Formal Language Theory](https://rycolab.io/classes/aflt-s22/)
 * [ETH Natural Language Processing](https://rycolab.io/classes/intro-nlp-f22/)
-* [ETH Large Language Models](https://rycolab.io/classes/llm-s23/)
+* [ETH Large Language Models](https://rycolab.io/classes/llm-s24/)
+* [ETH Generating Text from Language Models](https://rycolab.io/classes/acl-2023-tutorial/)(Applied)
+* [ETH Formal Language Theory and Neural Networks](https://rycolab.io/classes/esslli-23/)
 ## Reinforcement Learning for NLP
 * [RL4NLP Reading Group](https://github.com/jiyfeng/rl4nlp)
 # Books
