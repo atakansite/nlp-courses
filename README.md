@@ -2,6 +2,8 @@
 * [Stanford CS124: From Languages to Information](http://web.stanford.edu/class/cs124/)
 * [Stanford CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
 * [Stanford CS224U: Natural Language Understanding](http://web.stanford.edu/class/cs224u/)
+* [Stanford CS324: Large Language Models](https://stanford-cs324.github.io/winter2022/)
+* [John Hopkins CS 601.471/671: NLP: Self-supervised Models](https://self-supervised.cs.jhu.edu/sp2023/)
 * [CMU CS 11-711- Advanced NLP](http://www.phontron.com/class/anlp2024/lectures/)
 * [CMU CS 11-737- Multilingual NLP](http://www.phontron.com/class/multiling2022/schedule.html)
 * [CMU CS 11-747- Neural Networks for NLP](http://www.phontron.com/class/nn4nlp2021/schedule.html)
