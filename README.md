@@ -8,6 +8,8 @@
 * [CMU CS 11-737- Multilingual NLP](http://www.phontron.com/class/multiling2022/schedule.html)
 * [CMU CS 11-747- Neural Networks for NLP](http://www.phontron.com/class/nn4nlp2021/schedule.html)
 * [CMU CS 11-731- Machine Translation and Sequence-to-sequence Models](http://www.phontron.com/class/mtandseq2seq2019/schedule.html)
+* [CMU CS 11-777- MultiModal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2023/schedule/)
+* [CMU CS 11-877- Advanced Topics in MultiModal Machine Learning](https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2024/schedule/)
 * [MIT 6.806-864- Natural Language Processing](https://www.mit.edu/~jda/teaching/6.864/)
 * [MIT 6.861- Quantitative Methods for NLP](https://mit-6861.github.io/schedule)
 * [Princeton COS 484: Natural Language Processing](https://princeton-nlp.github.io/cos484/).
