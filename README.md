@@ -18,7 +18,6 @@
 * [Princeton COS 597F: Embodied Language Understanding](https://sites.google.com/princeton.edu/cos597f)
 * [Princeton COS 597G: Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
 * [UC Berkeley Natural Language Processing](https://people.ischool.berkeley.edu/~dbamman/nlp20.html)
-* [KU COMP542- Natural Language Processing](https://sites.google.com/a/ku.edu.tr/comp542/)
 * [UMass Amherts CS 685 Advanced NLP](https://people.cs.umass.edu/~miyyer/cs685/schedule.html)
 * [Columbia COMS W4705: Natural Language Processing](http://www.cs.columbia.edu/~mcollins/cs4705-spring2020/)
 * [Columbia CS 4705: Introduction to Natural Language Processing](http://www.cs.columbia.edu/~kathy/NLP/2019/)
@@ -35,7 +34,7 @@
 * [ETH Dependency Structures and Lexicalized Grammars](https://rycolab.io/classes/dep-parsing-sem/)
 * [ETH Natural Language Processing](https://rycolab.io/classes/intro-nlp-f22/)
 * [ETH Large Language Models](https://rycolab.io/classes/llm-s24/)
-* [ETH Generating Text from Language Models](https://rycolab.io/classes/acl-2023-tutorial/)(Applied)
+* [ETH Generating Text from Language Models](https://rycolab.io/classes/acl-2023-tutorial/) (Applied)
 ## NLP Programming Tutorials(Beginner)
 * [NAIST NLP Programming Tutorial](https://github.com/neubig/nlptutorial)
 ## Reinforcement Learning for NLP
@@ -46,13 +45,15 @@
 * [Neural Network Methods for Natural Language Processing](https://link.springer.com/book/10.1007/978-3-031-02165-7), Yoav Goldberg
 * [Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), Jacob Eisentein
 * [Foundations of Statistical Natural Language Processing](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Statistical%20Natural%20Language%20Processing.pdf), Christhoper D. Manning (Old Fashioned)
-## Mathematical Background for Machine Learning
+## Background for Machine Learning
 * [Introduction to Linear Algebra](http://students.aiu.edu/submissions/profiles/resources/onlineBook/Y5B7M4_Introduction_to_Linear_Algebra-_Fourth_Edition.pdf), Gilbert Strang
 * [Mathematical Statistics](http://www.mim.ac.mw/books/Mathematical%20statistics,%20basic%20ideas%20and%20selected%20topics%20Vol%201,%20Second%20Edition.pdf), Peter J. Bickel
 * [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/10.1002/047174882X), Thomas M. Cover
-*  [Probability, Random Variables and Stochastic Processes with Errata Sheet](https://www.amazon.com/Probability-Random-Variables-Stochastic-Processes/dp/0071226613), A. Papoulis
-* [Algorithms for Optimization](https://algorithmsbook.com/optimization/files/optimization.pdf)(Applied), Mykel J. Kochenderfer, Tim Wheeler
+* [Probability, Random Variables and Stochastic Processes with Errata Sheet](https://www.amazon.com/Probability-Random-Variables-Stochastic-Processes/dp/0071226613), A. Papoulis
+* [Algorithms for Optimization](https://algorithmsbook.com/optimization/files/optimization.pdf) (Applied), Mykel J. Kochenderfer, Tim Wheeler
 * [Introduction for Optimization](https://github.com/benjamincrom/optimization/blob/master/An%20Introduction%20to%20Optimization-%20E.%20Chong%2C%20S.%20Zak.pdf), Edwin K. P. Chong, Stainslaw H. Zak
 * [Pattern Recognition and Machine Learning](https://github.com/peteflorence/MachineLearning6.867/blob/master/Bishop/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf), Christopher M. Bishop
+## Deep Learning
 * [Deep Learning](https://www.deeplearningbook.org/), Ian Goodfellow
-* [Dive into Deep Learning](http://d2l.ai/)(Applied), [Course Materials](https://courses.d2l.ai/)
+* [Dive into Deep Learning](http://d2l.ai/) (Applied), [Course Materials](https://courses.d2l.ai/)
+* [Understanding Deep Learning](https://udlbook.github.io/udlbook/) (Applied), Simon J. D. Prince
