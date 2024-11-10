@@ -58,3 +58,7 @@
 * [Deep Learning](https://www.deeplearningbook.org/), Ian Goodfellow
 * [Dive into Deep Learning](http://d2l.ai/) (Applied), [Course Materials](https://courses.d2l.ai/)
 * [Understanding Deep Learning](https://udlbook.github.io/udlbook/) (Applied), Simon J. D. Prince
+* [The Principles of Deep Learning Theory](https://arxiv.org/pdf/2106.10165), D. A. Roberts, S. Yaida
+* [Mathematical Intrıduction to Deep Learning: Methods, Implementations, and Theory](https://arxiv.org/pdf/2310.20360), A. Jentzen, B. Kuckuck, P. von Wurstemberger
+* [Geometric Deep Learning Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/pdf/2104.13478v2), M M. Bronstein, J. Bruna, T. Cohen, P. Velickovic
+
